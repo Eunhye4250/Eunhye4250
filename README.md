@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 ⚡ Fun fact: ... </br>
 -->
 <div align="center">
-
+<img src="https://s3.orbi.kr/data/file/united/8e34a73ddd7480e93e65aef06c51bfdd.gif">
+  
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white"/></a>

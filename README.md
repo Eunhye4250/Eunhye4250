@@ -1,4 +1,8 @@
-### Hi there 👋
+<!-- <div align=center><h2> Hi I'm Grace 👋 </h2></div> -->
+<div align="center">
+<!-- https://github.com/kyechan99/capsule-render#descaligny 배너참고-->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3,26&height=180&section=header&text=Grace%20Lee%20😎&animation=twinkling&fontSize=40&fontAlign=84.5&fontAlignY=28" />
+
 
 <!--
 **Eunhye4250** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +18,7 @@ Here are some ideas to get you started:
 😄 Pronouns: ... </br>
 ⚡ Fun fact: ... </br>
 -->
-<div align="center">
+
 <img src="https://s3.orbi.kr/data/file/united/8e34a73ddd7480e93e65aef06c51bfdd.gif">
   
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
@@ -32,9 +36,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/></a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eunhye4250&show_icons=true&theme=tokyonight&layout=compact&locale=kr)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eunhye4250&show_icons=true&theme=tokyonight&layout=compact&locale=en)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eunhye4250&show_icons=true&theme=tokyonight&layout=compact&locale=kr)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eunhye4250&show_icons=true&theme=tokyonight&layout=compact&locale=en)](https://github.com/anuraghazra/github-readme-stats)
 
 
 </div>

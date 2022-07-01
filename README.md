@@ -51,6 +51,6 @@ Here are some ideas to get you started:
 
 <!--
 <img src="https://capsule-render.vercel.app/api?type=slice&reversal=true&color=gradient&customColorList=3,26&height=180&section=footer" />
->
+-->
 
 </div>

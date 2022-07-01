@@ -47,10 +47,11 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eunhye4250&show_icons=true&theme=tokyonight&bg_color=white&layout=compact&locale=en)&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eunhye4250)](https://github.com/anuraghazra/github-readme-stats&locale=en)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eunhye4250&show_icons=true&theme=tokyonight&bg_color=white&layout=compact&locale=en)](https://github.com/anuraghazra/github-readme-stats) -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eunhye4250&repo=github-readme-stats)](https://github.com/Eunhye4250/github-readme-stats)
-
-<!--
-<img src="https://capsule-render.vercel.app/api?type=slice&reversal=true&color=gradient&customColorList=3,26&height=180&section=footer" />
+<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eunhye4250&repo=github-readme-stats)](https://github.com/Eunhye4250/github-readme-stats) 
 -->
+
+
+<img src="https://capsule-render.vercel.app/api?type=slice&reversal=true&color=gradient&customColorList=3,26&height=180&section=footer" />
+
 
 </div>

@@ -41,8 +41,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
-
-
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=Python&logoColor=white"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eunhye4250&show_icons=true&theme=tokyonight&bg_color=white&layout=compact&locale=en)&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eunhye4250)](https://github.com/anuraghazra/github-readme-stats&locale=en)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eunhye4250&show_icons=true&theme=tokyonight&bg_color=white&layout=compact&locale=en)](https://github.com/anuraghazra/github-readme-stats) -->
